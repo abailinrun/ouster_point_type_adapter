@@ -3,7 +3,7 @@
 #include "rclcpp_components/register_node_macro.hpp"
 #include "sensor_msgs/point_cloud2_iterator.hpp"
 #include "pcl_conversions/pcl_conversions.h"
-#include "ouster_ros/include/ouster_ros/os_point.h"
+#include "ouster_ros/os_point.h"
 #include "autoware/point_types/types.hpp"
 #include <cmath>
 
